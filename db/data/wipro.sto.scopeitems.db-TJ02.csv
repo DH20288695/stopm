@@ -1,0 +1,34 @@
+ISTAT,TXT04,TXT30
+I0001,CRTD,Created
+I0002,REL,Released
+I0004,MSPT,Material shortage
+I0005,AVAC,Availability control active
+I0006,ESTC,Estimated costs
+I0009,CNF,Confirmed
+I0010,PCNF,Partially confirmed
+I0012,DLV,Delivered
+I0016,PRC,Pre-costed
+I0028,SETC,Settlement rule created
+I0033,CNC,Costs not current
+I0042,PREL,Partially released
+I0045,TECO,Technically completed
+I0055,RELR,Release rejected
+I0067,BUDG,Budgeted
+I0074,PDLV,Partially delivered
+I0076,DLFL,Deletion Flag
+I0093,ISBD,Insufficient budgeting
+I0115,CSER,Error in cost calculation
+I0118,NTUP,Dates are not updated
+I0215,SSAP,Object created
+I0236,HCNF,Order header confirmed
+I0321,GMPS,Goods movement posted
+I0328,OPGN,Operation generated
+I0340,MACM,Material committed
+I0361,NEWQ,New quantity calculation
+I0369,BCRQ,Order to be handled in batches
+I0420,MANC,Mat.availability not checked
+I0485,NMAT,No material components
+I0665,MPE,Shop Floor Order
+I0666,HAOP,Handed Over to Production
+I0820,JBFI,Job Finished
+I0820,JBFI,Job Finished

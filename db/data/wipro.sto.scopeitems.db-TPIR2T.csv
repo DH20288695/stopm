@@ -1,0 +1,16 @@
+MANDT,LANGU,APPL,KOKRS,ACPOS,KTEXT
+900,D,PM,A000,YB1,Eigenleistung
+900,D,PM,A000,YB2,Lagermaterial
+900,D,PM,A000,YB3,Streckenmaterial
+900,D,PM,A000,YB4,Services von Drittanbietern
+900,E,PM,A000,400,Stock Materials
+900,E,PM,A000,410,Non-Stock Material
+900,E,PM,A000,420,Labor Internal Straight Time
+900,E,PM,A000,430,Labor Internal - OT
+900,E,PM,A000,440,Labor External
+900,E,PM,A000,450,Services
+900,E,PM,A000,460,Equipment Rental
+900,E,PM,A000,YB1,Internal Activity
+900,E,PM,A000,YB2,Stock Material
+900,E,PM,A000,YB3,3rd party Material
+900,E,PM,A000,YB4,3rd party Services
